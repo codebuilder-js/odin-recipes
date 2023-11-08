@@ -1,6 +1,8 @@
 h1,
 h2,
 ul,
+ol,
+p,
 a {
     text-align: center;
     font-family: Helvetica, Arial, sans-serif;
@@ -15,7 +17,8 @@ img {
     border-radius: 15px;
 }
 
-ul {
+ul,
+ol {
     list-style-type: none;
     padding: 0;
 }
