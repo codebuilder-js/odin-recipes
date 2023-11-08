@@ -1,15 +1,13 @@
 h1,
+h2,
+ul,
 a {
+    text-align: center;
     font-family: Helvetica, Arial, sans-serif;
     color: #714d3d;
 }
 
-ul,
-#page-title {
-    text-align: center;
-}
-
-#heading-image {
+img {
     display: block;
     width: 400px;
     height: auto;
