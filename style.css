@@ -1,3 +1,7 @@
+html {
+    background-color: #ffd4c2;
+}
+
 h1,
 h2,
 ul,
@@ -30,4 +34,5 @@ ul li {
 ul a {
     text-decoration: none;
     font-size: 20px;
+    
 }
